@@ -7,9 +7,9 @@ require "language/node"
 class Mocker < Formula
   desc "Reverse proxy with record/playback capabilities"
   homepage "https://github.com/caiogondim/mocker"
-  version "1.1.0"
-  url "https://github.com/caiogondim/mocker/archive/refs/tags/1.1.0.tar.gz"
-  sha256 "01b342ea782e8e37dcc1c41bdbe70c04773e00f579ba77229828ec84a9067f00"
+  version "1.2.0"
+  url "https://github.com/caiogondim/mocker/archive/refs/tags/1.2.0.tar.gz"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "MIT"
 
   depends_on "node"
